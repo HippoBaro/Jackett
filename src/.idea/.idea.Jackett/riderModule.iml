@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../Build.bat">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Build.bat" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../Installer.iss">
+      <sourceFolder url="file://$MODULE_DIR$/../../../Installer.iss" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../LICENSE">
+      <sourceFolder url="file://$MODULE_DIR$/../../../LICENSE" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../README.md">
+      <sourceFolder url="file://$MODULE_DIR$/../../../README.md" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../CurlSharp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Jackett" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Jackett.Console" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Jackett.Service" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Jackett.Test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Jackett.Tray/Jackett.Tray.csproj" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Jackett.Updater" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../netcore/Jackett" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CurlSharp/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../CurlSharp/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Console/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Console/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Service/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Service/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Test/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Test/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Updater/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett.Updater/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Jackett/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../netcore/Jackett/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../netcore/Jackett/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../packages" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
