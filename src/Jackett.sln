@@ -27,7 +27,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jackett.Updater", "Jackett.
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "netcore", "netcore", "{946E1ACB-AD39-4055-A955-7A687D5DBAAF}"
 EndProject
-Project("{76B79CA5-D4B0-4515-A450-B8853A9AD7A6}") = "Jackett", "netcore\Jackett\Jackett.csproj", "{90E27269-B483-4C82-8391-5B18734FEE4F}"
+Project("{0B0A07D2-E38D-4791-80DA-737F0444B222}") = "Jackett", "netcore\Jackett\Jackett.csproj", "{502875B5-362E-4C79-ADCC-3725EF685B82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,10 +63,10 @@ Global
 		{A61E311A-6F8B-4497-B5E4-2EA8994C7BD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A61E311A-6F8B-4497-B5E4-2EA8994C7BD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A61E311A-6F8B-4497-B5E4-2EA8994C7BD8}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90E27269-B483-4C82-8391-5B18734FEE4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90E27269-B483-4C82-8391-5B18734FEE4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90E27269-B483-4C82-8391-5B18734FEE4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90E27269-B483-4C82-8391-5B18734FEE4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{502875B5-362E-4C79-ADCC-3725EF685B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{502875B5-362E-4C79-ADCC-3725EF685B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{502875B5-362E-4C79-ADCC-3725EF685B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{502875B5-362E-4C79-ADCC-3725EF685B82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -107,6 +107,6 @@ Global
 		$2.scope = text/x-csharp
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{90E27269-B483-4C82-8391-5B18734FEE4F} = {946E1ACB-AD39-4055-A955-7A687D5DBAAF}
+		{502875B5-362E-4C79-ADCC-3725EF685B82} = {946E1ACB-AD39-4055-A955-7A687D5DBAAF}
 	EndGlobalSection
 EndGlobal
